@@ -24,6 +24,7 @@
 .navbar a {
     color: #fff;
 }
+
 /* Main Content */
 .main-content {
     padding-top: 5em;
@@ -45,7 +46,7 @@
     color: #666;
 }
 
-/* Portfolio */
+/* Portfolio Section */
 .portfolio-container {
     display: flex;
     flex-wrap: wrap;
